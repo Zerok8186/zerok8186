@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+IA+%26+DevOps+Specialist+%7C+Cloud+Architect;Desarrollando+soluciones+inteligentes+y+escalables;Python+%7C+Java+%7C+JS+%7C+PHP+%7C+C%2B%2B+%7C+CSharp+%F0%9F%96%8C%EF%B8%8F;Automatizando+el+futuro+con+IA+%F0%9F%94%A5"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFC8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+%7C+IA+%26+DevOps+Specialist+%7C+Cloud+Architect;Conectando+tecnolog%C3%ADas+para+soluciones+globales+e+inteligentes;Python+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+JavaScript+%7C+PHP+%7C+SQL+%7C+Cloud+%F0%9F%94%A5"/>
 </p>
 
 ---
@@ -20,29 +20,36 @@ Soy un **desarrollador profesional Full-Stack** con enfoque en diseño y constru
 
 Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y cloud computing, con conocimientos avanzados en:
 
-- ⚙️ Desarrollo de APIs RESTful y microservicios
-- 🧠 Integración de modelos de Inteligencia Artificial (OpenAI, Gemini, HuggingFace)
-- ☁️ Arquitectura de infraestructura en AWS, Azure, Docker, Kubernetes
+- ⚙️ Desarrollo de APIs RESTful y microservicios escalables
+- 🤖 Integración de modelos de Inteligencia Artificial (OpenAI, Gemini, HuggingFace)
+- ☁️ Arquitectura de infraestructura con AWS, Azure, Docker, Kubernetes
+- 💾 Bases de datos relacionales y NoSQL con optimización de consultas
 - 💻 Administración de sistemas Linux y Windows Server
-- 🔐 Ciberseguridad aplicada a sistemas web y pipelines DevOps
+- 🛡️ Prácticas DevSecOps, automatización CI/CD y monitoreo de sistemas
 
-🌟 Mi pasión: conectar el mundo físico y digital mediante código limpio, automatización y aprendizaje automático.
+🚀 **Mi misión:** Fusionar innovación, rendimiento y usabilidad en cada línea de código que escribo.
 
 ---
 
-### 🛸 Filosofía de Desarrollo
+### 🪄 Línea del Tiempo Profesional
 
-> "La tecnología debe ser tan invisible como poderosa. Cada línea de código que escribo busca impactar positivamente, simplificando lo complejo sin perder robustez ni seguridad."
+```markdown
+🧩 2020 — Comencé creando scripts de automatización con Python y Bash.
+🛠️ 2021 — Web Apps dinámicas con PHP + JS. Primeros servidores Linux productivos.
+☁️ 2022 — Infraestructura Cloud con AWS & Azure + contenedores Docker.
+🧠 2023 — Integración de modelos IA en sistemas reales (OpenAI, PyTorch, Scikit-Learn).
+🚀 2024 — Full-Stack Senior + DevOps Engineer + Arquitecto IA.
+```
 
 ---
 
 ### 🏆 Certificaciones & Roles
 
-- ✅ **Microsoft Certified: Azure Solutions Architect Expert**
-- ✅ **AWS Certified Developer – Associate**
-- ✅ **Scrum Foundation Professional Certificate**
-- ✅ **Especialista en IA Aplicada y Visión Artificial**
-- ✅ **DevOps Engineer & CI/CD Orchestrator**
+- ✅ Microsoft Certified: Azure Solutions Architect Expert
+- ✅ AWS Certified Developer – Associate
+- ✅ Scrum Foundation Professional Certificate
+- ✅ Especialista en IA Aplicada y Visión Artificial
+- ✅ DevOps Engineer & CI/CD Orchestrator
 
 <p align="center">
   <img src="https://media.giphy.com/media/Id6nt8uxvU08fUIhGo/giphy.gif" width="200" />
@@ -62,7 +69,7 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
   <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind,bootstrap,sass" />
 </p>
 
-#### 🧠 Inteligencia Artificial & Data Science
+#### 🧠 Inteligencia Artificial & Ciencia de Datos
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -75,19 +82,32 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
   <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx,bash,powershell" />
 </p>
 
-#### 📃 Bases de Datos SQL & NoSQL
+#### 🗃️ Bases de Datos SQL & NoSQL
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
 </p>
 
 ---
 
+### 📂 Tecnologías por Escenario
+
+| Escenario                        | Herramientas Clave                                                |
+|----------------------------------|--------------------------------------------------------------------|
+| Web Backend                     | Node.js, .NET, PHP, Python Flask/Django                           |
+| Frontend Moderno               | React, Angular, Vue, Tailwind CSS                                 |
+| Automatización & Scripting     | Python, Bash, PowerShell                                          |
+| IA y ML                        | PyTorch, TensorFlow, OpenAI, HuggingFace, Scikit-learn            |
+| Infraestructura & DevOps       | Docker, Kubernetes, GitHub Actions, Jenkins, Azure Pipelines      |
+| Bases de Datos                 | MySQL, PostgreSQL, MongoDB, Redis                                 |
+
+---
+
 ### 🚀 Proyectos Estelares
 
-- 🤖 **Asistente Virtual Médico IA** – Integración de sensores con IA local y TTS/ASR, análisis de salud en tiempo real.
-- 🛡️ **Sistema de Monitoreo de Infraestructura Segura** – Backend escalable con detección de amenazas, implementado en Kubernetes.
-- 📡 **Sistema de Visión para Clasificación de Frutas** – Reconocimiento y clasificación usando OpenCV y redes neuronales.
-- 🌐 **Plataforma de Inventario y Dashboard Web** – CRUD completo con ASP.NET y MySQL, diseño responsivo y seguro.
+- 🤖 **Asistente Virtual Médico IA** – Sensores + IA local con análisis vocal y de salud en tiempo real.
+- 🛡️ **Sistema de Monitoreo de Infraestructura Segura** – Backend escalable con detección de amenazas.
+- 📡 **Clasificador de Frutas Inteligente** – Clasificación con OpenCV y Deep Learning.
+- 🌐 **Dashboard de Inventario Responsive** – CRUD ASP.NET + MySQL + diseño adaptativo + login seguro.
 
 ---
 
@@ -104,8 +124,6 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
     <img src="https://img.shields.io/badge/Portafolio-00C897?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
