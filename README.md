@@ -16,18 +16,17 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
-Soy un **desarrollador profesional Full-Stack** con enfoque en diseño y construcción de plataformas inteligentes, resilientes y orientadas al rendimiento.
+Desde temprana edad me sentí atraído por el fascinante mundo de la tecnología. Hoy, como **Desarrollador Full-Stack** y apasionado por la **Inteligencia Artificial**, dedico mi tiempo a transformar ideas en sistemas eficientes y escalables que impactan el mundo real.
 
-Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y cloud computing, con conocimientos avanzados en:
+Con una visión integral de los sistemas, combino diseño backend, frontend moderno, prácticas DevOps e infraestructura cloud. Mi enfoque es crear soluciones que no solo funcionen, sino que también destaquen por su rendimiento, seguridad y escalabilidad.
 
-- ⚙️ Desarrollo de APIs RESTful y microservicios escalables
-- 🤖 Integración de modelos de Inteligencia Artificial (OpenAI, Gemini, HuggingFace)
-- ☁️ Arquitectura de infraestructura con AWS, Azure, Docker, Kubernetes
-- 💾 Bases de datos relacionales y NoSQL con optimización de consultas
-- 💻 Administración de sistemas Linux y Windows Server
-- 🛡️ Prácticas DevSecOps, automatización CI/CD y monitoreo de sistemas
+- ⚙️ Desarrollo de APIs RESTful y microservicios con arquitectura desacoplada
+- 🤖 Aplicación de IA generativa, modelos predictivos y visión por computadora
+- ☁️ Orquestación cloud: Azure, AWS, Docker, Kubernetes
+- 💾 Bases de datos SQL y NoSQL altamente optimizadas
+- 🛡️ Integración de pipelines CI/CD seguros y automatizados (DevSecOps)
 
-🚀 **Mi misión:** Fusionar innovación, rendimiento y usabilidad en cada línea de código que escribo.
+🚀 **Mi lema:** _"Cada línea de código es una pieza del futuro que imaginas."_
 
 ---
 
@@ -45,9 +44,9 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 
 ### 🏆 Certificaciones & Roles
 
-- ✅ Microsoft Certified: Azure Solutions Architect Expert
-- ✅ AWS Certified Developer – Associate
-- ✅ Scrum Foundation Professional Certificate
+- [✅ Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
+- [✅ AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+- [✅ Scrum Foundation Professional Certificate](https://certiprof.com/collections/scrum/products/scrum-foundation-professional-certificate-sfpc)
 - ✅ Especialista en IA Aplicada y Visión Artificial
 - ✅ DevOps Engineer & CI/CD Orchestrator
 
@@ -104,10 +103,10 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 
 ### 🚀 Proyectos Estelares
 
-- 🤖 **Asistente Virtual Médico IA** – Sensores + IA local con análisis vocal y de salud en tiempo real.
-- 🛡️ **Sistema de Monitoreo de Infraestructura Segura** – Backend escalable con detección de amenazas.
-- 📡 **Clasificador de Frutas Inteligente** – Clasificación con OpenCV y Deep Learning.
-- 🌐 **Dashboard de Inventario Responsive** – CRUD ASP.NET + MySQL + diseño adaptativo + login seguro.
+- 🤖 **Asistente Virtual Médico IA** – Sensores + IA local con análisis vocal y de salud en tiempo real. [Ver demo](#)
+- 🛡️ **Sistema de Monitoreo de Infraestructura Segura** – Backend escalable con detección de amenazas. [Captura](#)
+- 📡 **Clasificador de Frutas Inteligente** – Clasificación con OpenCV y Deep Learning. [Ver GitHub](#)
+- 🌐 **Dashboard de Inventario Responsive** – CRUD ASP.NET + MySQL + diseño adaptativo + login seguro. [Live Site](#)
 
 ---
 
