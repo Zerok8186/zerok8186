@@ -1,177 +1,133 @@
-<!DOCTYPE html>
-<html lang="es">
+# 🌌 Hola, soy **Carlos Armando** – Desarrollador Full-Stack & Arquitecto de Soluciones Inteligentes 👨‍🚀💻
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portafolio - Carlos Armando</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Roboto', sans-serif;
-      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-      color: #fff;
-    }
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" />
+</p>
 
-    #header {
-      text-align: center;
-      padding: 40px 20px;
-      background-image: url('https://media.giphy.com/media/3o7TKrWYW4R7jzk2Gs/giphy.gif');
-      background-size: cover;
-      background-position: center;
-      animation: fadeIn 2s ease-in-out;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFC8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+%7C+IA+%26+DevOps+Specialist+%7C+Cloud+Architect;Conectando+tecnolog%C3%ADas+para+soluciones+globales+e+inteligentes;Python+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+JavaScript+%7C+PHP+%7C+SQL+%7C+Cloud+%F0%9F%94%A5"/>
+</p>
 
-    #header h1 {
-      font-size: 2.5rem;
-      color: #00ffc8;
-      text-shadow: 2px 2px 10px black;
-    }
+---
 
-    #header h3 {
-      font-weight: normal;
-    }
+### 🧠 Sobre Mí
 
-    .badge-container {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      margin-top: 20px;
-      flex-wrap: wrap;
-    }
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+</p>
 
-    .badge-container img {
-      transition: transform 0.3s;
-    }
+Desde temprana edad me sentí atraído por el fascinante mundo de la tecnología. Hoy, como **Desarrollador Full-Stack** y apasionado por la **Inteligencia Artificial**, dedico mi tiempo a transformar ideas en sistemas eficientes y escalables que impactan el mundo real.
 
-    .badge-container img:hover {
-      transform: scale(1.1);
-    }
+Con una visión integral de los sistemas, combino diseño backend, frontend moderno, prácticas DevOps e infraestructura cloud. Mi enfoque es crear soluciones que no solo funcionen, sino que también destaquen por su rendimiento, seguridad y escalabilidad.
 
-    section {
-      padding: 40px 20px;
-      max-width: 1200px;
-      margin: auto;
-      animation: fadeIn 2s ease-in-out;
-    }
+- ⚙️ Desarrollo de APIs RESTful y microservicios con arquitectura desacoplada
+- 🤖 Aplicación de IA generativa, modelos predictivos y visión por computadora
+- ☁️ Orquestación cloud: Azure, AWS, Docker, Kubernetes
+- 💾 Bases de datos SQL y NoSQL altamente optimizadas
+- 🛡️ Integración de pipelines CI/CD seguros y automatizados (DevSecOps)
 
-    h2 {
-      color: #00ffc8;
-      border-left: 5px solid #00ffc8;
-      padding-left: 10px;
-    }
+🚀 **Mi lema:** _"Cada línea de código es una pieza del futuro que imaginas."_
 
-    .tech-icons {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 15px;
-      padding-top: 15px;
-    }
+---
 
-    .tech-icons img {
-      width: 50px;
-      height: 50px;
-      transition: transform 0.3s;
-    }
+### 🪄 Línea del Tiempo Profesional
 
-    .tech-icons img:hover {
-      transform: rotate(15deg) scale(1.1);
-    }
+```markdown
+🧩 2020 — Comencé creando scripts de automatización con Python y Bash.
+🛠️ 2021 — Web Apps dinámicas con PHP + JS. Primeros servidores Linux productivos.
+☁️ 2022 — Infraestructura Cloud con AWS & Azure + contenedores Docker.
+🧠 2023 — Integración de modelos IA en sistemas reales (OpenAI, PyTorch, Scikit-Learn).
+🚀 2024 — Full-Stack Senior + DevOps Engineer + Arquitecto IA.
+```
 
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
+---
 
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
+### 🏆 Certificaciones & Roles
 
-    .gif-divider {
-      width: 100%;
-      margin: 20px 0;
-      text-align: center;
-    }
+- [✅ Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
+- [✅ AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+- [✅ Scrum Foundation Professional Certificate](https://certiprof.com/collections/scrum/products/scrum-foundation-professional-certificate-sfpc)
+- ✅ Especialista en IA Aplicada y Visión Artificial
+- ✅ DevOps Engineer & CI/CD Orchestrator
 
-    .gif-divider img {
-      width: 100px;
-    }
+<p align="center">
+  <img src="https://media.giphy.com/media/Id6nt8uxvU08fUIhGo/giphy.gif" width="200" />
+</p>
 
-    footer {
-      text-align: center;
-      padding: 30px;
-      background-color: #111;
-      color: #999;
-      font-size: 0.9rem;
-    }
-  </style>
-</head>
+---
 
-<body>
-  <div id="header">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-    <h1>Hola, soy Carlos Armando 👋</h1>
-    <h3>Desarrollador Full-Stack con enfoque en soluciones robustas, IA, y nuevas tecnologías.</h3>
-  </div>
+### 🧰 Tecnologías que Uso a Diario
 
-  <div class="badge-container">
-    <a href="https://www.linkedin.com/in/carlos-armando-hernandez-cruz-887a44365" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:carlosarmandohernadezcruz27@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://tu-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portafolio-00C897?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-  </div>
+#### 💻 Lenguajes de Programación
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,js,java,php,ts" />
+</p>
 
-  <section>
-    <h2>🧠 Sobre Mí</h2>
-    <p>
-      Desarrollador con experiencia en <strong>Python, C++, C#, JavaScript, Java, PHP</strong>, especializado en el desarrollo web <strong>Full-Stack</strong> y la administración de servidores <strong>Linux/Windows</strong>. He trabajado con bases de datos SQL y NoSQL, desarrollando APIs RESTful, gestionando infraestructura cloud en <strong>AWS</strong> y <strong>Azure</strong>, y aplicando <strong>Machine Learning</strong> para soluciones inteligentes.
-    </p>
-    <p>
-      También me apasiona la integración de tecnologías emergentes como APIs de IA (OpenAI, Gemini, HuggingFace) en proyectos de automatización, chatbots, visión por computadora y asistentes virtuales.
-    </p>
-  </section>
+#### 🌐 Desarrollo Web Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind,bootstrap,sass" />
+</p>
 
-  <div class="gif-divider">
-    <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" alt="divider" />
-  </div>
+#### 🧠 Inteligencia Artificial & Ciencia de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
-  <section>
-    <h2>🛠️ Stack Tecnológico</h2>
-    <div class="tech-icons">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" />
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" />
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" />
-    </div>
-  </section>
+#### ☁️ Backend, DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx,bash,powershell" />
+</p>
 
-  <footer>
-    Diseñado con ❤️ por Carlos Armando - Desarrollador Full Stack | IA | DevOps | Cloud
-  </footer>
-</body>
+#### 🗃️ Bases de Datos SQL & NoSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+</p>
 
-</html>
+---
+
+### 📂 Tecnologías por Escenario
+
+| Escenario                        | Herramientas Clave                                                |
+|----------------------------------|--------------------------------------------------------------------|
+| Web Backend                     | Node.js, .NET, PHP, Python Flask/Django                           |
+| Frontend Moderno               | React, Angular, Vue, Tailwind CSS                                 |
+| Automatización & Scripting     | Python, Bash, PowerShell                                          |
+| IA y ML                        | PyTorch, TensorFlow, OpenAI, HuggingFace, Scikit-learn            |
+| Infraestructura & DevOps       | Docker, Kubernetes, GitHub Actions, Jenkins, Azure Pipelines      |
+| Bases de Datos                 | MySQL, PostgreSQL, MongoDB, Redis                                 |
+
+---
+
+### 🚀 Proyectos Estelares
+
+- 🤖 **Asistente Virtual Médico IA** – Sensores + IA local con análisis vocal y de salud en tiempo real. [Ver demo](#)
+- 🛡️ **Sistema de Monitoreo de Infraestructura Segura** – Backend escalable con detección de amenazas. [Captura](#)
+- 📡 **Clasificador de Frutas Inteligente** – Clasificación con OpenCV y Deep Learning. [Ver GitHub](#)
+- 🌐 **Dashboard de Inventario Responsive** – CRUD ASP.NET + MySQL + diseño adaptativo + login seguro. [Live Site](#)
+
+---
+
+### 🌐 Encuéntrame en la Galaxia Digital
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-armando-hernandez-cruz-887a44365" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:carlosarmandohernadezcruz27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-00C897?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <strong>✨ Código que crea, transforma y trasciende. ¡Gracias por visitar mi universo de desarrollo! 🚀</strong>
+</p>
