@@ -111,7 +111,7 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
   <a href="https://www.linkedin.com/in/carlos-armando-hernandez-cruz-887a44365" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="carlosarmandohernadezcruz27@gmail.com">
+  <a href="mailto:carlosarmandohernadezcruz27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://tu-portfolio.com" target="_blank">
