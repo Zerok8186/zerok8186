@@ -1,82 +1,167 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-  <h1>Hola, soy Carlos Armando 👋</h1>
-  <h3>Desarrollador Full-Stack | IA | Cloud & DevOps Enthusiast 🚀</h3>
-  <p>Creando soluciones digitales robustas y explorando la frontera de la inteligencia artificial.</p>
-</div>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio - Desarrollador Full Stack</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Roboto&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: #fff;
+    }
+    #header {
+      text-align: center;
+      padding: 40px 20px;
+      background-image: url('https://media.giphy.com/media/3o7TKrWYW4R7jzk2Gs/giphy.gif');
+      background-size: cover;
+      background-position: center;
+      animation: fadeIn 2s ease-in-out;
+    }
+    #header h1 {
+      font-size: 2.5rem;
+      color: #00ffc8;
+      text-shadow: 2px 2px 10px black;
+    }
+    #header h3 {
+      font-weight: normal;
+    }
+    .badge-container {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+    .badge-container img {
+      transition: transform 0.3s;
+    }
+    .badge-container img:hover {
+      transform: scale(1.1);
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1200px;
+      margin: auto;
+      animation: fadeIn 2s ease-in-out;
+    }
+    h2 {
+      color: #00ffc8;
+      border-left: 5px solid #00ffc8;
+      padding-left: 10px;
+    }
+    .tech-icons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      padding-top: 15px;
+    }
+    .tech-icons img {
+      width: 50px;
+      height: 50px;
+      transition: transform 0.3s;
+    }
+    .tech-icons img:hover {
+      transform: rotate(15deg) scale(1.1);
+    }
+    @keyframes fadeIn {
+      from {opacity: 0; transform: translateY(20px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
+    .gif-divider {
+      width: 100%;
+      margin: 20px 0;
+      text-align: center;
+    }
+    .gif-divider img {
+      width: 100px;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      background-color: #111;
+      color: #999;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
+  <div id="header">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+    <h1>Hola, soy Carlos Armando 👋</h1>
+    <h3>Desarrollador Full-Stack con enfoque en soluciones robustas, IA, y nuevas tecnologías.</h3>
+    <div class="badge-container">
+      <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://twitter.com/tu-twitter" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+      </a>
+      <a href="https://tu-portfolio.com" target="_blank">
+        <img src="https://img.shields.io/badge/Mi%20Portfolio-DA5B0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      </a>
+      <a href="mailto:tu-email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </div>
+  </div>
 
-### Sobre Mí 👨‍💻
+  <section>
+    <h2>🧠 Sobre Mí</h2>
+    <p>
+      Soy un <strong>Desarrollador con experiencia en Python, C++, C#, JavaScript, Java, PHP</strong>, especializado en el desarrollo web <strong>Full-Stack</strong> y la administración de servidores <strong>Linux/Windows</strong>. He trabajado con bases de datos SQL y NoSQL, desarrollando APIs RESTful, gestionando infraestructura cloud en <strong>AWS y Azure</strong>, y aplicando <strong>Machine Learning</strong> para soluciones inteligentes.
+    </p>
+    <p>
+      También me apasiona la integración de tecnologías emergentes como <strong>APIs de IA</strong> (OpenAI, Gemini, HuggingFace) en proyectos de automatización, chatbots, visión por computadora y asistentes virtuales.
+    </p>
+  </section>
 
-Soy un desarrollador **Full-Stack** con una sólida trayectoria en la creación de software de alto rendimiento. Mi experiencia abarca desde el diseño de **APIs RESTful** eficientes hasta la administración de infraestructuras complejas en servidores **Linux y Windows**. Me especializo en la integración de tecnologías de vanguardia, incluyendo **Inteligencia Artificial** y **Machine Learning**, para construir aplicaciones más inteligentes y automatizadas.
+  <div class="gif-divider">
+    <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="divider" />
+  </div>
 
--   🚀 Siempre explorando nuevas tecnologías para optimizar el rendimiento y la experiencia de usuario.
--   ☁️ Apasionado por la arquitectura de software, el cloud computing (AWS, Azure) y las prácticas **DevOps**.
--   🤖 Experimentando con APIs de IA (como OpenAI, Gemini) para potenciar la funcionalidad de mis proyectos.
--   💡 Enfocado en escribir código limpio, mantenible y bien documentado.
+  <section>
+    <h2>🛠️ Stack Tecnológico</h2>
+    <div class="tech-icons">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" />
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" />
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" />
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" />
+    </div>
+  </section>
 
----
+  <section>
+    <h2>📊 Estadísticas GitHub</h2>
+    <div style="text-align: center">
+      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
+    </div>
+  </section>
 
-### 🛠️ Mi Stack Tecnológico
+  <footer>
+    <p>Diseñado con ❤️ por Carlos Armando - Desarrollador Full Stack | IA | DevOps | Cloud</p>
+  </footer>
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-  
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-  <a href="https://angular.io" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/></a>
-
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
-  
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-</p>
-
----
-
-### 🔥 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub de Carlos"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=dracula&locale=es" alt="Lenguajes más usados de Carlos"/>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-### 📫 Conéctate conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/tu-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://tu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mi%20Portfolio-DA5B0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-   <a href="mailto:tu-email@example.com">
-    <img src="https://img.shields.io/badge/Envíame%20un%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+</body>
+</html>
