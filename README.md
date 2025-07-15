@@ -1,4 +1,4 @@
-# 🌌 Hola, soy **Carlos Armando** – Desarrollador Full-Stack & Arquitecto de Soluciones Inteligentes 👨‍🚀💻
+# 🌌 Hola, soy **Carlos Armando** – Desarrollador Full-Stack & Arquitecto de Soluciones Inteligentes 👨‍💻🚀
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" />
@@ -10,7 +10,7 @@
 
 ---
 
-### 📽️ Presentación Interactiva
+### 📹 Presentación Interactiva
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
@@ -31,7 +31,7 @@ Con una visión integral de los sistemas, combino diseño backend, frontend mode
 - ⚙️ Desarrollo de APIs RESTful y microservicios con arquitectura desacoplada
 - 🤖 Aplicación de IA generativa, modelos predictivos y visión por computadora
 - ☁️ Orquestación cloud: Azure, AWS, Docker, Kubernetes
-- 💾 Bases de datos SQL y NoSQL altamente optimizadas
+- 💿 Bases de datos SQL y NoSQL altamente optimizadas
 - 🛡️ Integración de pipelines CI/CD seguros y automatizados (DevSecOps)
 
 🚀 **Mi lema:** _"Cada línea de código es una pieza del futuro que imaginas."_
@@ -52,8 +52,8 @@ Con una visión integral de los sistemas, combino diseño backend, frontend mode
 ### 🪄 Línea del Tiempo Profesional
 
 ```markdown
-🧩 2020 — Comencé creando scripts de automatización con Python y Bash.
-🛠️ 2021 — Web Apps dinámicas con PHP + JS. Primeros servidores Linux productivos.
+🧙‍♂️ 2020 — Comencé creando scripts de automatización con Python y Bash.
+👷️ 2021 — Web Apps dinámicas con PHP + JS. Primeros servidores Linux productivos.
 ☁️ 2022 — Infraestructura Cloud con AWS & Azure + contenedores Docker.
 🧠 2023 — Integración de modelos IA en sistemas reales (OpenAI, PyTorch, Scikit-Learn).
 🚀 2024 — Full-Stack Senior + DevOps Engineer + Arquitecto IA.
@@ -96,7 +96,7 @@ Con una visión integral de los sistemas, combino diseño backend, frontend mode
   <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx,bash,powershell" />
 </p>
 
-#### 🗃️ Bases de Datos SQL & NoSQL
+#### 🛃 Bases de Datos SQL & NoSQL
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
 </p>
