@@ -23,7 +23,7 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 - ⚙️ Desarrollo de APIs RESTful y microservicios
 - 🧠 Integración de modelos de Inteligencia Artificial (OpenAI, Gemini, HuggingFace)
 - ☁️ Arquitectura de infraestructura en AWS, Azure, Docker, Kubernetes
-- 🖥️ Administración de sistemas Linux y Windows Server
+- 💻 Administración de sistemas Linux y Windows Server
 - 🔐 Ciberseguridad aplicada a sistemas web y pipelines DevOps
 
 🌟 Mi pasión: conectar el mundo físico y digital mediante código limpio, automatización y aprendizaje automático.
@@ -75,7 +75,7 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
   <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx,bash,powershell" />
 </p>
 
-#### 🗃️ Bases de Datos SQL & NoSQL
+#### 📃 Bases de Datos SQL & NoSQL
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
 </p>
@@ -88,20 +88,6 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 - 🛡️ **Sistema de Monitoreo de Infraestructura Segura** – Backend escalable con detección de amenazas, implementado en Kubernetes.
 - 📡 **Sistema de Visión para Clasificación de Frutas** – Reconocimiento y clasificación usando OpenCV y redes neuronales.
 - 🌐 **Plataforma de Inventario y Dashboard Web** – CRUD completo con ASP.NET y MySQL, diseño responsivo y seguro.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical&hide_border=true" />
-</p>
 
 ---
 
@@ -126,5 +112,5 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 </p>
 
 <p align="center">
-  <strong>✨ Código que crea, transforma y trasciende. ¡Gracias por visitar mi desarrollo! 🚀</strong>
+  <strong>✨ Código que crea, transforma y trasciende. ¡Gracias por visitar mi universo de desarrollo! 🚀</strong>
 </p>
