@@ -30,6 +30,12 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 
 ---
 
+### 🛸 Filosofía de Desarrollo
+
+> "La tecnología debe ser tan invisible como poderosa. Cada línea de código que escribo busca impactar positivamente, simplificando lo complejo sin perder robustez ni seguridad."
+
+---
+
 ### 🏆 Certificaciones & Roles
 
 - ✅ **Microsoft Certified: Azure Solutions Architect Expert**
@@ -53,7 +59,7 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 
 #### 🌐 Desarrollo Web Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind,bootstrap,sass" />
 </p>
 
 #### 🧠 Inteligencia Artificial & Data Science
@@ -66,13 +72,22 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 
 #### ☁️ Backend, DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx,bash,powershell" />
 </p>
 
 #### 🗃️ Bases de Datos SQL & NoSQL
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
 </p>
+
+---
+
+### 🚀 Proyectos Estelares
+
+- 🤖 **Asistente Virtual Médico IA** – Integración de sensores con IA local y TTS/ASR, análisis de salud en tiempo real.
+- 🛡️ **Sistema de Monitoreo de Infraestructura Segura** – Backend escalable con detección de amenazas, implementado en Kubernetes.
+- 📡 **Sistema de Visión para Clasificación de Frutas** – Reconocimiento y clasificación usando OpenCV y redes neuronales.
+- 🌐 **Plataforma de Inventario y Dashboard Web** – CRUD completo con ASP.NET y MySQL, diseño responsivo y seguro.
 
 ---
 
@@ -93,13 +108,10 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 ### 🌐 Encuéntrame en la Galaxia Digital
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-armando-hernandez-cruz-887a44365" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/tu-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:tu-email@example.com">
+  <a href="mailto:carlosarmandohernadezcruz27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://tu-portfolio.com" target="_blank">
@@ -114,5 +126,5 @@ Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y clo
 </p>
 
 <p align="center">
-  <strong>🚀 Siempre aprendiendo, siempre mejorando. ¡Gracias por visitar mi universo dev! ⭐</strong>
+  <strong>✨ Código que crea, transforma y trasciende. ¡Gracias por visitar mi desarrollo! 🚀</strong>
 </p>
