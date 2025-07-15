@@ -1,105 +1,96 @@
-# 🌌 Hola, soy **Carlos Armando** – Desarrollador Galáctico 👨‍🚀🚀
+# 🌌 Hola, soy **Carlos Armando** – Desarrollador Full-Stack & Arquitecto de Soluciones Inteligentes 👨‍🚀💻
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBlcm1pa2QxeXlxZGVrNWhwbHVxdDk2ODQzcmNwdmVydTdscGp3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF6C00&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%94%A5;IA+Engineer+%7C+DevOps+%7C+Cloud+Architect+%E2%98%84%EF%B8%8F;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Java+%7C+CSharp+%7C+PHP;Visión+por+Computadora+%7C+APIs+IA+%F0%9F%96%8C%EF%B8%8F+%7C+Asistentes+Virtuales" />
-</p>
-
-🌟 Desarrollador Full-Stack multidisciplinario con experiencia en **Python, C++, C#, JavaScript, Java, PHP**, especializado en soluciones web, inteligencia artificial, infraestructura en la nube y servidores Linux/Windows. 
-
-🎯 Enfocado en transformar tecnología compleja en soluciones intuitivas y escalables.
-
----
-
-<p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/3jv8/eyJyIjoiZnMiLCJoIjoxNzYsInciOjEyMDAsImZzIjo4OCwiZmdjIjoiI0ZGMDAwMCIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/VHJhbnNmb3JtaW5nIGNvZGlnbyBlbiByZWFsaWRhZGVzIGFscXVpbGFudGVz/commodore-64-pixel.png" width="700"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+IA+%26+DevOps+Specialist+%7C+Cloud+Architect;Desarrollando+soluciones+inteligentes+y+escalables;Python+%7C+Java+%7C+JS+%7C+PHP+%7C+C%2B%2B+%7C+CSharp+%F0%9F%96%8C%EF%B8%8F;Automatizando+el+futuro+con+IA+%F0%9F%94%A5"/>
 </p>
 
 ---
 
 ### 🧠 Sobre Mí
 
-- 💡 Convertir ideas en productos funcionales y sorprendentes es mi superpoder.
-- 🔭 Explorador de nuevas tecnologías: desde microservicios hasta Large Language Models.
-- ☁️ Maestro Jedi en AWS, Azure, Docker, Kubernetes y DevOps.
-- 🤖 Implementador de IA con OpenAI, Gemini, HuggingFace y visión por computadora.
-- 📡 Me apasiona automatizar lo imposible. Robots, asistentes, bots, dashboards... ¡lo que sea!
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+</p>
+
+Soy un **desarrollador profesional Full-Stack** con enfoque en diseño y construcción de plataformas inteligentes, resilientes y orientadas al rendimiento.
+
+Mi experiencia abarca desde el backend robusto hasta interfaces dinámicas y cloud computing, con conocimientos avanzados en:
+
+- ⚙️ Desarrollo de APIs RESTful y microservicios
+- 🧠 Integración de modelos de Inteligencia Artificial (OpenAI, Gemini, HuggingFace)
+- ☁️ Arquitectura de infraestructura en AWS, Azure, Docker, Kubernetes
+- 🖥️ Administración de sistemas Linux y Windows Server
+- 🔐 Ciberseguridad aplicada a sistemas web y pipelines DevOps
+
+🌟 Mi pasión: conectar el mundo físico y digital mediante código limpio, automatización y aprendizaje automático.
+
+---
+
+### 🏆 Certificaciones & Roles
+
+- ✅ **Microsoft Certified: Azure Solutions Architect Expert**
+- ✅ **AWS Certified Developer – Associate**
+- ✅ **Scrum Foundation Professional Certificate**
+- ✅ **Especialista en IA Aplicada y Visión Artificial**
+- ✅ **DevOps Engineer & CI/CD Orchestrator**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs7KViFz3OEa4eFW/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/Id6nt8uxvU08fUIhGo/giphy.gif" width="200" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kogisin/kogisin/main/images/galaxy-divider.gif" width="600"/>
+### 🧰 Tecnologías que Uso a Diario
+
+#### 💻 Lenguajes de Programación
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,js,java,php,ts" />
+</p>
+
+#### 🌐 Desarrollo Web Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind,bootstrap" />
+</p>
+
+#### 🧠 Inteligencia Artificial & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+#### ☁️ Backend, DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx" />
+</p>
+
+#### 🗃️ Bases de Datos SQL & NoSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
 ---
 
-### 🏅 Especialidades Cósmicas
-
-- 🧠 **IA Specialist** – Modelado, inferencia y despliegue de IA con PyTorch, TensorFlow, scikit-learn y APIs OpenAI/HuggingFace.
-- ☁️ **Cloud Architect** – Orquestación de infraestructuras híbridas con Docker, Kubernetes, Azure y AWS.
-- ⚙️ **Backend Alquimista** – Diseño de APIs RESTful ultra performantes con .NET, Node.js y Spring Boot.
-- 🛡️ **DevOps & CI/CD** – Automatización de flujos con GitHub Actions, GitLab CI, Jenkins y Terraform.
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT4uQulxzV39haRFjG/giphy.gif" width="300"/>
-</p>
-
----
-
-### 🌈 Stack Tecnológico Futurista
-
-#### ⚙️ **Lenguajes de Programación**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,js,java,php,ts"/>
-</p>
-
-#### 🎨 **Frontend Futurista**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind"/>
-</p>
-
-#### 🧰 **Backend & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx"/>
-</p>
-
-#### 🧪 **Bases de Datos**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-</p>
-
-#### 🤖 **Inteligencia Artificial & Automatización**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
----
-
-### 📊 Mis Stats en la Galaxia GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Conéctate conmigo
+### 🌐 Encuéntrame en la Galaxia Digital
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
@@ -119,9 +110,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  <strong>✨ Transformando líneas de código en realidades galácticas. ¡Gracias por visitar mi universo, viajero del código! 👨‍🚀🌠</strong>
+  <strong>🚀 Siempre aprendiendo, siempre mejorando. ¡Gracias por visitar mi universo dev! ⭐</strong>
 </p>
