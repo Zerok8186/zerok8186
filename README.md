@@ -1,113 +1,127 @@
-# 👨‍💻 Hola, soy **Carlos Armando**
+# 🌌 Hola, soy **Carlos Armando** – Desarrollador Galáctico 👨‍🚀🚀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBlcm1pa2QxeXlxZGVrNWhwbHVxdDk2ODQzcmNwdmVydTdscGp3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="180" />
 </p>
 
-Desarrollador Full-Stack con experiencia en **Python, C++, C#, JavaScript, Java, PHP**, especializado en desarrollo web, administración de servidores **Linux/Windows**, bases de datos, inteligencia artificial, APIs y tecnologías emergentes.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF6C00&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%94%A5;IA+Engineer+%7C+DevOps+%7C+Cloud+Architect+%E2%98%84%EF%B8%8F;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Java+%7C+CSharp+%7C+PHP;Visión+por+Computadora+%7C+APIs+IA+%F0%9F%96%8C%EF%B8%8F+%7C+Asistentes+Virtuales" />
+</p>
+
+🌟 Desarrollador Full-Stack multidisciplinario con experiencia en **Python, C++, C#, JavaScript, Java, PHP**, especializado en soluciones web, inteligencia artificial, infraestructura en la nube y servidores Linux/Windows. 
+
+🎯 Enfocado en transformar tecnología compleja en soluciones intuitivas y escalables.
 
 ---
 
-### 🚀 Sobre Mí
-
-- 💻 Desarrollador apasionado por convertir ideas en soluciones robustas y escalables.
-- ☁️ Experto en **Cloud Computing (AWS, Azure)**, contenedores con **Docker y Kubernetes**, y prácticas **DevOps**.
-- 🤖 Integrador de APIs de IA (OpenAI, Gemini, HuggingFace) para asistentes virtuales, visión por computadora y procesamiento del lenguaje natural.
-- 🛠️ Enfocado en escribir código limpio, mantenible y bien documentado.
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZ2cHk2Zms4aTNmZzM4OWt0cTFxaG00b2F1Nnp2bHkzM3kyaWYyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH4LGO9UTrt5bQpKxy/giphy.gif" width="220" />
+  <img src="https://see.fontimg.com/api/renderfont4/3jv8/eyJyIjoiZnMiLCJoIjoxNzYsInciOjEyMDAsImZzIjo4OCwiZmdjIjoiI0ZGMDAwMCIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/VHJhbnNmb3JtaW5nIGNvZGlnbyBlbiByZWFsaWRhZGVzIGFscXVpbGFudGVz/commodore-64-pixel.png" width="700"/>
 </p>
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🧠 Sobre Mí
 
-#### **Lenguajes de Programación**
+- 💡 Convertir ideas en productos funcionales y sorprendentes es mi superpoder.
+- 🔭 Explorador de nuevas tecnologías: desde microservicios hasta Large Language Models.
+- ☁️ Maestro Jedi en AWS, Azure, Docker, Kubernetes y DevOps.
+- 🤖 Implementador de IA con OpenAI, Gemini, HuggingFace y visión por computadora.
+- 📡 Me apasiona automatizar lo imposible. Robots, asistentes, bots, dashboards... ¡lo que sea!
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs7KViFz3OEa4eFW/giphy.gif" width="260"/>
 </p>
 
-#### **Frontend**
+---
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kogisin/kogisin/main/images/galaxy-divider.gif" width="600"/>
 </p>
 
-#### **Backend / Cloud / Servidores**
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+### 🏅 Especialidades Cósmicas
+
+- 🧠 **IA Specialist** – Modelado, inferencia y despliegue de IA con PyTorch, TensorFlow, scikit-learn y APIs OpenAI/HuggingFace.
+- ☁️ **Cloud Architect** – Orquestación de infraestructuras híbridas con Docker, Kubernetes, Azure y AWS.
+- ⚙️ **Backend Alquimista** – Diseño de APIs RESTful ultra performantes con .NET, Node.js y Spring Boot.
+- 🛡️ **DevOps & CI/CD** – Automatización de flujos con GitHub Actions, GitLab CI, Jenkins y Terraform.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT4uQulxzV39haRFjG/giphy.gif" width="300"/>
 </p>
 
-#### **Bases de Datos**
+---
 
+### 🌈 Stack Tecnológico Futurista
+
+#### ⚙️ **Lenguajes de Programación**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,js,java,php,ts"/>
 </p>
 
-#### **Inteligencia Artificial / ML**
-
+#### 🎨 **Frontend Futurista**
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind"/>
+</p>
+
+#### 🧰 **Backend & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,linux,docker,kubernetes,aws,azure,nginx"/>
+</p>
+
+#### 🧪 **Bases de Datos**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+</p>
+
+#### 🤖 **Inteligencia Artificial & Automatización**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Mis Stats en la Galaxia GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Conecta conmigo
+### 🌐 Conéctate conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/tu-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:tu-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://tu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-DA5B0B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portafolio-00C897?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  <strong>🚀 Siempre explorando, siempre aprendiendo. ¡Gracias por visitar mi perfil!</strong>
+  <strong>✨ Transformando líneas de código en realidades galácticas. ¡Gracias por visitar mi universo, viajero del código! 👨‍🚀🌠</strong>
 </p>
